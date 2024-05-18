@@ -76,10 +76,6 @@ git commit -m "Add your commit message here"
 git push origin feature/your-feature
 5.Submit a pull request.
 
-
-
 License
-
-
 
 This project is licensed under the MIT License - see the LICENSE file for details.
