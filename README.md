@@ -1,7 +1,5 @@
 QR Code Generator
 
-
-
 This is a simple web-based QR Code generator that uses HTML, CSS, and JavaScript along with an external API to generate QR codes. You can input any text or URL, and the application will generate a QR code that represents your input.
 
 Table of Contents
